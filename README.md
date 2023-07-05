@@ -1,17 +1,8 @@
-## Getting Started
-
-First, run the development server:
+Deployes in vercel:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+https://nextjs13-next-auth-tailwind-ai-shared-prompts-gpvsmffsn.vercel.app/
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 
 This is a full stack projects using nextjs13, next-auth and tailwind.
 
