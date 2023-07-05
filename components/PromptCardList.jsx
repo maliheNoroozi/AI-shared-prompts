@@ -10,7 +10,7 @@ const PromptCardList = ({
   handleDelete,
 }) => {
   return (
-    <section className="flex gap-4 flex-wrap">
+    <section className="grid gap-[20px] grid-cols-[repeat(auto-fill,minmax(350px,1fr))]">
       {prompts.map((prompt) => (
         <PromptCard
           key={prompt._id}
