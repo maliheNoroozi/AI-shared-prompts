@@ -1,8 +1,3 @@
-Deployes in vercel:
-
-```bash
-```
-
 This is a full stack projects using nextjs13, next-auth and tailwind.
 
 It has login with google.
