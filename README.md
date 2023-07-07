@@ -1,7 +1,6 @@
 Deployes in vercel:
 
 ```bash
-https://nextjs13-next-auth-tailwind-ai-shared-prompts-gpvsmffsn.vercel.app/
 ```
 
 This is a full stack projects using nextjs13, next-auth and tailwind.
